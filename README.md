@@ -25,3 +25,4 @@ One of the key deliverables of the task is the visualization of the decision tre
 In conclusion, Task 1 effectively demonstrates the full machine learning pipeline: data loading, preprocessing, model training, evaluation, and visualization. Decision trees offer a transparent and interpretable approach to classification, and this task provides a strong foundation for understanding how machine learning models make decisions using structured data.
 
 # OUTPUT
+<img width="1031" height="658" alt="Image" src="https://github.com/user-attachments/assets/41e5e0f6-4b20-4aad-80d0-76aaad514be7" />
